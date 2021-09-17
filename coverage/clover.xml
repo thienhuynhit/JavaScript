@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1631673061790" clover="3.2.0">
+  <project timestamp="1631673061791" name="All files">
+    <metrics statements="157" coveredstatements="157" conditionals="212" coveredconditionals="191" methods="32" coveredmethods="32" elements="401" coveredelements="380" complexity="0" loc="157" ncloc="157" packages="4" files="16" classes="16"/>
+    <package name="Labs">
+      <metrics statements="19" coveredstatements="19" conditionals="14" coveredconditionals="13" methods="4" coveredmethods="4"/>
+      <file name="main.js" path="E:\learn\Javascript Hau on udemy\Source\Labs\main.js">
+        <metrics statements="18" coveredstatements="18" conditionals="14" coveredconditionals="13" methods="3" coveredmethods="3"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="7" type="stmt"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="7" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="10" type="cond" truecount="4" falsecount="0"/>
+        <line num="23" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="25" count="5" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="27" count="17" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="10" type="stmt"/>
+        <line num="29" count="10" type="cond" truecount="1" falsecount="1"/>
+        <line num="32" count="30" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+      </file>
+      <file name="sum.js" path="E:\learn\Javascript Hau on udemy\Source\Labs\sum.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="Labs.section10 unit test">
+      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="main.js" path="E:\learn\Javascript Hau on udemy\Source\Labs\section10 unit test\main.js">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="7" type="stmt"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="7" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="Labs.section11 exercise">
+      <metrics statements="51" coveredstatements="51" conditionals="64" coveredconditionals="55" methods="16" coveredmethods="16"/>
+      <file name="array-check-07.js" path="E:\learn\Javascript Hau on udemy\Source\Labs\section11 exercise\array-check-07.js">
+        <metrics statements="5" coveredstatements="5" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+        <line num="11" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="15" count="8" type="cond" truecount="4" falsecount="0"/>
+        <line num="17" count="4" type="stmt"/>
+      </file>
+      <file name="array-find-09.js" path="E:\learn\Javascript Hau on udemy\Source\Labs\section11 exercise\array-find-09.js">
+        <metrics statements="18" coveredstatements="18" conditionals="36" coveredconditionals="27" methods="6" coveredmethods="6"/>
+        <line num="10" count="10" type="cond" truecount="4" falsecount="0"/>
+        <line num="11" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="12" count="5" type="cond" truecount="2" falsecount="2"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="16" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="23" count="10" type="cond" truecount="4" falsecount="0"/>
+        <line num="24" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="25" count="5" type="cond" truecount="2" falsecount="2"/>
+        <line num="27" count="9" type="stmt"/>
+        <line num="28" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="10" type="cond" truecount="4" falsecount="0"/>
+        <line num="33" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="34" count="5" type="cond" truecount="2" falsecount="2"/>
+        <line num="36" count="5" type="stmt"/>
+        <line num="37" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="38" count="10" type="stmt"/>
+      </file>
+      <file name="string-02.js" path="E:\learn\Javascript Hau on udemy\Source\Labs\section11 exercise\string-02.js">
+        <metrics statements="28" coveredstatements="28" conditionals="20" coveredconditionals="20" methods="8" coveredmethods="8"/>
+        <line num="8" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="15" count="37" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="19" count="16" type="stmt"/>
+        <line num="20" count="16" type="stmt"/>
+        <line num="21" count="70" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="16" type="stmt"/>
+        <line num="24" count="16" type="stmt"/>
+        <line num="26" count="4" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="33" count="4" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+        <line num="36" count="41" type="stmt"/>
+        <line num="38" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="40" count="4" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="46" count="4" type="stmt"/>
+        <line num="48" count="41" type="stmt"/>
+        <line num="50" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="51" count="16" type="stmt"/>
+      </file>
+    </package>
+    <package name="Labs.section11 practice">
+      <metrics statements="81" coveredstatements="81" conditionals="130" coveredconditionals="119" methods="11" coveredmethods="11"/>
+      <file name="calc-sumN.js" path="E:\learn\Javascript Hau on udemy\Source\Labs\section11 practice\calc-sumN.js">
+        <metrics statements="11" coveredstatements="11" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="24" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="19" count="3" type="stmt"/>
+      </file>
+      <file name="number-01.js" path="E:\learn\Javascript Hau on udemy\Source\Labs\section11 practice\number-01.js">
+        <metrics statements="7" coveredstatements="7" conditionals="12" coveredconditionals="9" methods="1" coveredmethods="1"/>
+        <line num="11" count="15" type="cond" truecount="4" falsecount="0"/>
+        <line num="12" count="10" type="cond" truecount="2" falsecount="2"/>
+        <line num="14" count="10" type="cond" truecount="1" falsecount="1"/>
+        <line num="15" count="10" type="stmt"/>
+        <line num="17" count="10" type="stmt"/>
+        <line num="18" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="4" type="stmt"/>
+      </file>
+      <file name="number-02.js" path="E:\learn\Javascript Hau on udemy\Source\Labs\section11 practice\number-02.js">
+        <metrics statements="7" coveredstatements="7" conditionals="10" coveredconditionals="8" methods="1" coveredmethods="1"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="14" type="cond" truecount="4" falsecount="0"/>
+        <line num="13" count="10" type="cond" truecount="2" falsecount="2"/>
+        <line num="15" count="10" type="stmt"/>
+        <line num="16" count="10" type="stmt"/>
+        <line num="17" count="30" type="cond" truecount="2" falsecount="0"/>
+        <line num="19" count="5" type="stmt"/>
+      </file>
+      <file name="number-03.js" path="E:\learn\Javascript Hau on udemy\Source\Labs\section11 practice\number-03.js">
+        <metrics statements="9" coveredstatements="9" conditionals="22" coveredconditionals="21" methods="1" coveredmethods="1"/>
+        <line num="15" count="34" type="cond" truecount="4" falsecount="0"/>
+        <line num="16" count="24" type="cond" truecount="4" falsecount="0"/>
+        <line num="17" count="20" type="cond" truecount="4" falsecount="0"/>
+        <line num="18" count="16" type="cond" truecount="4" falsecount="0"/>
+        <line num="20" count="15" type="cond" truecount="1" falsecount="1"/>
+        <line num="21" count="15" type="stmt"/>
+        <line num="22" count="15" type="stmt"/>
+        <line num="23" count="28" type="cond" truecount="4" falsecount="0"/>
+        <line num="25" count="8" type="stmt"/>
+      </file>
+      <file name="number-04.js" path="E:\learn\Javascript Hau on udemy\Source\Labs\section11 practice\number-04.js">
+        <metrics statements="8" coveredstatements="8" conditionals="12" coveredconditionals="12" methods="1" coveredmethods="1"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="18" type="cond" truecount="4" falsecount="0"/>
+        <line num="12" count="14" type="cond" truecount="4" falsecount="0"/>
+        <line num="14" count="13" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="12" type="stmt"/>
+        <line num="16" count="12" type="stmt"/>
+        <line num="17" count="47" type="cond" truecount="2" falsecount="0"/>
+        <line num="19" count="7" type="stmt"/>
+      </file>
+      <file name="number-05.js" path="E:\learn\Javascript Hau on udemy\Source\Labs\section11 practice\number-05.js">
+        <metrics statements="5" coveredstatements="5" conditionals="12" coveredconditionals="12" methods="1" coveredmethods="1"/>
+        <line num="8" count="21" type="cond" truecount="4" falsecount="0"/>
+        <line num="9" count="18" type="cond" truecount="4" falsecount="0"/>
+        <line num="11" count="17" type="stmt"/>
+        <line num="12" count="17" type="cond" truecount="4" falsecount="0"/>
+        <line num="13" count="11" type="stmt"/>
+      </file>
+      <file name="number-06.js" path="E:\learn\Javascript Hau on udemy\Source\Labs\section11 practice\number-06.js">
+        <metrics statements="9" coveredstatements="9" conditionals="12" coveredconditionals="12" methods="1" coveredmethods="1"/>
+        <line num="9" count="13" type="cond" truecount="4" falsecount="0"/>
+        <line num="10" count="9" type="cond" truecount="4" falsecount="0"/>
+        <line num="12" count="8" type="stmt"/>
+        <line num="13" count="8" type="stmt"/>
+        <line num="14" count="8" type="stmt"/>
+        <line num="15" count="49" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="20" type="stmt"/>
+        <line num="17" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="8" type="stmt"/>
+      </file>
+      <file name="number-07.js" path="E:\learn\Javascript Hau on udemy\Source\Labs\section11 practice\number-07.js">
+        <metrics statements="9" coveredstatements="9" conditionals="12" coveredconditionals="12" methods="1" coveredmethods="1"/>
+        <line num="11" count="15" type="cond" truecount="4" falsecount="0"/>
+        <line num="12" count="11" type="cond" truecount="4" falsecount="0"/>
+        <line num="14" count="10" type="cond" truecount="4" falsecount="0"/>
+        <line num="15" count="7" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="17" count="7" type="stmt"/>
+        <line num="18" count="23" type="stmt"/>
+        <line num="19" count="23" type="stmt"/>
+        <line num="21" count="7" type="stmt"/>
+      </file>
+      <file name="number-08.js" path="E:\learn\Javascript Hau on udemy\Source\Labs\section11 practice\number-08.js">
+        <metrics statements="7" coveredstatements="7" conditionals="8" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="8" count="15" type="cond" truecount="4" falsecount="0"/>
+        <line num="9" count="9" type="cond" truecount="2" falsecount="2"/>
+        <line num="11" count="9" type="stmt"/>
+        <line num="12" count="9" type="stmt"/>
+        <line num="13" count="9" type="stmt"/>
+        <line num="14" count="30" type="stmt"/>
+        <line num="16" count="9" type="stmt"/>
+      </file>
+      <file name="number-09.js" path="E:\learn\Javascript Hau on udemy\Source\Labs\section11 practice\number-09.js">
+        <metrics statements="9" coveredstatements="9" conditionals="18" coveredconditionals="15" methods="1" coveredmethods="1"/>
+        <line num="9" count="17" type="cond" truecount="4" falsecount="0"/>
+        <line num="10" count="13" type="cond" truecount="4" falsecount="0"/>
+        <line num="12" count="12" type="cond" truecount="3" falsecount="1"/>
+        <line num="13" count="12" type="cond" truecount="2" falsecount="2"/>
+        <line num="15" count="12" type="stmt"/>
+        <line num="16" count="12" type="stmt"/>
+        <line num="17" count="32" type="stmt"/>
+        <line num="18" count="83" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="5" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
